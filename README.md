@@ -1,3 +1,5 @@
 # dnc-movie-list
-Atividade utilizando React e axios para praticar.
+Atividade sugerida pela escola dnc.
+Home com card de filmes e pesquisa.
+Utilizando React, axios e themoviedb.
 
