@@ -1,2 +1,3 @@
 # dnc-movie-list
-Atividade utilizando React para  aprimorar conhecimentos.
+Atividade utilizando React e axios para praticar.
+
